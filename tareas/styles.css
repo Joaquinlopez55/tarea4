@@ -1,0 +1,72 @@
+.bordecaja{
+    border: 8px solid red;
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 10%;
+    padding-right: 6%;
+    margin: 6%;
+    background-color: aqua;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bordecajanueva{
+    border-top: 5px solid red;
+    border-bottom: 8px solid black;
+    border-left: 10px solid rgb(181, 13, 139);
+    border-right: 6px solid blue;
+    padding: 5px;
+    margin: 5px;
+    background-image: url(../IMG/fisioterapia.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 200px 50px;
+    background-position: left;
+}
+.imagenfondo{
+    background-image: url(../IMG/DESCARGA2.avif);
+    background-repeat:no-repeat;
+}
+
+.bordecaja3{
+    border-top: 9px solid royalblue;
+    border-radius: 50px;
+}
+
+.div1{
+    background-color: green;
+    width: 50%;
+    height: 90vh;
+    margin:auto;
+}
+
+.div2{
+    background-color: blue;
+    width: 80%;
+    height: 70vh;
+    margin: 0px;
+}
+.div3{
+    background-color: red;
+    width: 80%;
+    height: 60vh;
+    margin:0px;
+    
+}
+
+.div4 {
+    background-color: pink;
+    width: 80%;
+    height: 50vh;
+    margin:0px;
+}
+
+.titulo{
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
+
+.ancho{
+    width: 50%;
+}
